@@ -1,3 +1,4 @@
-# rez-ptex
+rez-ptex
+===
 
 Rez build configuration for Ptex.
