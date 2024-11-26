@@ -1,6 +1,6 @@
 name = "ptex"
 
-version = "2.1.28"
+version = "2.4.3"
 
 authors = [
     "Walt Disney Animation Studios"
@@ -17,7 +17,8 @@ requires = [
 ]
 
 variants = [
-    ["platform-linux"]
+    ['platform-linux', 'arch-x86_64']
+
 ]
 
 tools = [
